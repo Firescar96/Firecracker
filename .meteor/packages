@@ -11,3 +11,4 @@ bootstrap
 jquery
 mrt:bootstrap-3
 iron:router
+http
